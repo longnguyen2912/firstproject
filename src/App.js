@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import PersonCard from './components/SomeClassComponent'
+import PersonCard from './components/PersonCardComponent'
 
 function App() {
   return (
